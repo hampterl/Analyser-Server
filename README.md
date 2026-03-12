@@ -21,4 +21,5 @@ I the Author am not liable to any Damage/Harm/Data-loss caused by miss-use.
 This app is only for educational purpose and to prove that I understand the code/problem solving process of offensive security tool development.
 
 ## Author
-Hampterl on github
+**hampterl**
+GitHub: [https://github.com/hampterl](https://github.com/hampterl)
