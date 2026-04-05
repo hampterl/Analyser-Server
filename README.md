@@ -7,6 +7,11 @@
 - Open the app
 
 ## Description
+
+### IMPORTANT
+Disclaimer: This is an offensive security tool that records keystrokes. This application was not designed with security in mind it is pure POC. It lacks common security practices such as obfuscation, encrypted webhooks, and HTTPS usage. It is intended for educational or demonstration purposes only.
+
+After opening:
 The mouse will load for a bit ~5 sec and thats it, nothing visible will happen after that.  
 
 Under the hood and not visible to the user, analyser will create a directory in Programm Data named Analyse Server, then inside of that 4 more named differently
